@@ -1,3 +1,4 @@
 This is the second file in the master branch.
 
 changes in masterTest-created as tracked branch from origin/master.
+changes2 in masterTest-created as tracked branch from origin/master.
